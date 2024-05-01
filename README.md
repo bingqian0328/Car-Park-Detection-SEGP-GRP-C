@@ -23,7 +23,7 @@ To run this system, the backend software will first need to be launched and run,
 - This file executes the program
 
 ## Support
-This is just a demonstration code of how our backend works, if you need more examples from different carparks, please feel free to contact hfybl3@nottingham.edu.my (Bing Qian). 
+This is just a demonstration code of how our backend works, if you need more examples from different carparks or you have problems running the backend code, please feel free to contact hfybl3@nottingham.edu.my (Bing Qian). 
 
 # ParkDetect App Installation and Testing Guide
 
