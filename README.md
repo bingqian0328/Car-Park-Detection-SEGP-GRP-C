@@ -3,7 +3,7 @@ This is a demonstration code of a camera-based car park detection system develop
 
 To run this system, the backend software will first need to be launched and run, followed by the front-end application.
 
-#Steps to run backend code
+# Steps to run backend code
 1) Ensure you have a Python IDE installed. eg. Pycharm
 2) Install all the libraries needed to run the code.
    - Opencv
@@ -14,15 +14,15 @@ To run this system, the backend software will first need to be launched and run,
 3) Download and open the backend folder on your IDE
 4) Run main.py to execute program
 
-##Spaceplotter.py
+## Spaceplotter.py
 - This is a file made to mark the parking spots as regions of interest (ROIs) from an image (A screenshot taken from your CCTV parking area footage), left click adds a parking spot and right click deletes a parking spot. Please wait for awhile after adding, it will take some time for it to be saved and created.
 - You can modify the parking spots shape by changing the values to suit your parking area's spots. Other types of shape of your choice can also be implemented to fit your parking spots.
 - If you need to make changes to a certain spot, take note of the spot_id and change the spot_id_counter variable to the spot id of your choice, then run the code to remark the spot so the spot_id will be in order.
 
-##main.py
+## main.py
 - This file executes the program
 
-##Support
+## Support
 This is just a demonstration code of how our backend works, if you need more examples from different carparks, please feel free to contact hfybl3@nottingham.edu.my (Bing Qian). 
 
 # ParkDetect App Installation and Testing Guide
