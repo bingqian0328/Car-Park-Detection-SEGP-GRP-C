@@ -1,7 +1,7 @@
 # Car-Park-Detection-SEGP-GRP-C
 This is a demonstration code of a camera-based car park detection system developed to analyse video footage to detect the occupancy status of parking spots in a parking lot. Then, the real time data will be uploaded and updated on our front-end application.
 
-To run this system, the backend software will first need to be launched and run, followed by the front-end application.
+To run this system, the backend software will first need to be launched and run for the API to be uploaded onto our applicatiod, followed by the front-end application.
 
 # Steps to run backend code
 1) Ensure you have a Python IDE installed. eg. Pycharm
